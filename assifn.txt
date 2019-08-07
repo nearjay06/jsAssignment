@@ -1,0 +1,12 @@
+create a ToDo App using concepts from array methods.
+Your code should at least contain some use of array methods like push,shift,pop,
+indexof, foreach.
+It should use the preventDefault concept for forms.
+
+Stage1: the skeleton ..:adding a todo into the array and displaying it on the page.
+
+Stage2: functionality improvement..:removing the todo from the array and the page.
+
+Stage3: more functionality ..: updating the specified todo.
+
+Write precise and clean code.
