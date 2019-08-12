@@ -10,3 +10,12 @@ Stage2: functionality improvement..:removing the todo from the array and the pag
 Stage3: more functionality ..: updating the specified todo.
 
 Write precise and clean code.
+
+-Get the inputted text,
+-Assign it when the addbutton is clicked,
+- Display it on the page
+
+
+
+
+

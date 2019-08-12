@@ -1,0 +1,28 @@
+body{
+    background-color: peru;
+    display:block;
+}
+
+input{
+    border-radius: 20px;
+    border: 1px solid brown;
+    background-color:palegoldenrod;
+    padding:8px;
+}
+
+button{
+    border-radius: 10px;
+    border: 1px solid brown;
+    background-color: palegoldenrod;
+    padding:8px;
+}
+
+h1 {
+    font-family: cambria;
+    text-align:center;
+}
+
+.ten{
+    padding-top:10px;
+    margin-left:80px;
+}
